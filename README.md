@@ -10,7 +10,7 @@ A passionate frontend developer and learning full stack development from India
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aditi960&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aditi960&theme=dark)
-
+![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi960&theme=dark&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi960&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
